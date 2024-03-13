@@ -2,7 +2,7 @@
 
 A collection of helpful tricks for [`jscodeshift`](https://www.npmjs.com/package/jscodeshift) codemods
 
-## Convert `defaultProps`
+## Convert `defaultProps` to JavaScript Default Parameters
 
 To help migrate off [the deprecated React API `defaultProps`](https://github.com/facebook/react/pull/16210), you can use a codemod like this to transform your `defaultProps` into JavaScript default parameters:
 
