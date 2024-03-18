@@ -1,4 +1,4 @@
-# jscodeshift-tricks
+# jscodeshift Tricks
 
 A collection of helpful tricks for [`jscodeshift`](https://www.npmjs.com/package/jscodeshift) codemods
 
