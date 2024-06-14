@@ -1,6 +1,6 @@
 # jscodeshift Tricks
 
-A collection of helpful tricks for [`jscodeshift`](https://www.npmjs.com/package/jscodeshift) codemods
+A collection of useful tricks for [`jscodeshift`](https://www.npmjs.com/package/jscodeshift) codemods
 
 ## Convert `defaultProps` to JavaScript Default Parameters
 
